@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mediapipe
+tensorflow==2.12.0
+torch
+torchvision
+scikit-learn
+matplotlib
