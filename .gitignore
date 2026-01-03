@@ -1,0 +1,11 @@
+# Modelos entrenados
+*.h5
+*.keras
+
+# Datasets
+test-animals/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
