@@ -1,8 +1,17 @@
+# Computer Vision / ML
 opencv-python
 numpy
 mediapipe
 tensorflow==2.12.0
-torch
-torchvision
 scikit-learn
 matplotlib
+
+# PyTorch
+torch
+torchvision
+
+# NLP / LLM
+transformers>=4.39.0
+peft
+accelerate
+sentencepiece
